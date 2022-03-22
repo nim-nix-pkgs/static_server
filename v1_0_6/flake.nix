@@ -9,7 +9,7 @@
   
   inputs.src-static_server-v1_0_6.flake = false;
   inputs.src-static_server-v1_0_6.owner = "bung87";
-  inputs.src-static_server-v1_0_6.ref   = "refs/tags/v1.0.6";
+  inputs.src-static_server-v1_0_6.ref   = "v1_0_6";
   inputs.src-static_server-v1_0_6.repo  = "nimhttpd";
   inputs.src-static_server-v1_0_6.type  = "github";
   
